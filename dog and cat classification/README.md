@@ -8,7 +8,7 @@ A deep learning project that classifies images of cats and dogs using convolutio
 
 The model is trained on the **Cats and Dogs Dataset** from Kaggle.
 
-- [Dogs vs. Cats Dataset – Kaggle]([https://www.kaggle.com/datasets/salader/dogsvscats])
+- [Dogs vs. Cats Dataset – Kaggle](https://www.kaggle.com/datasets/salader/dogsvscats)
 - ~25,000 labeled images (cats and dogs)
 - Split into training and validation sets for model evaluation
 
