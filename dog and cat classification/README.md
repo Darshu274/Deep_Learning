@@ -27,7 +27,7 @@ pip install tensorflow keras matplotlib opencv-python
 ### How to Run
 
 1. **Open the notebook** – Load `cats_v_dogs_classification.ipynb` in [Google Colab](https://colab.research.google.com/).
-2. **Download the dataset** – Get it from the [Kaggle link]((https://www.kaggle.com/datasets/salader/dogsvscats)) above.
+2. **Download the dataset** – Get it from the [Kaggle link](https://www.kaggle.com/datasets/salader/dogsvscats) above.
 3. **Upload the dataset** – Upload it to your Colab session storage or mount Google Drive.
 4. **Run all cells** – Execute cells sequentially to:
    - Preprocess and augment the data
@@ -90,6 +90,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
-- [Kaggle – Dogs vs. Cats Competition]((https://www.kaggle.com/datasets/salader/dogsvscats))
+- [Kaggle – Dogs vs. Cats Competition](https://www.kaggle.com/datasets/salader/dogsvscats)
 - TensorFlow and Keras documentation
 - Google Colab for providing free GPU resources
